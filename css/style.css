@@ -270,7 +270,7 @@ form textarea {
 
 .contenedorDescripcion{
     background-color: #181c3d;
-   height: 100%;
+   height: 100vh;
 }
 .contenedorDescripcion h2{
     color: aqua;
