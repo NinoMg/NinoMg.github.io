@@ -355,7 +355,8 @@ margin:0;
 background-size:cover;
 
 }
-.contenedorDescripcion{
-    height: 100vh;
+.contenedorDescripcion {
+    
+    height: 100%;
 }
 }
