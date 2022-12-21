@@ -373,4 +373,11 @@ background-size:cover;
     height: 100%;
    
 }
+
+#whatsapp {
+    z-index: 9999;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
 }
