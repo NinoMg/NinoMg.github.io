@@ -340,6 +340,7 @@ body{
 }
 .contenedor-contacto img{
     display: none;
+    
 }
 .contenedor_proyecto{
     grid-gap:auto;
@@ -371,6 +372,7 @@ display:none;
 }
 .wrapper{
 height:60em;
+
 }
 .about {
 display:block;
@@ -388,6 +390,11 @@ background-size:cover;
     height: 100%;
    
 }
-
+form textarea{
+    width: 100%;
+}
+    info-content {
+        align-content:center;
+    }
 
 }
