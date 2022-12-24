@@ -324,7 +324,7 @@ form textarea {
 
 
 /*inicio media para tablets*/
-@media all and (max-width: 799px) {
+@media all and (max-width: 899px) {
     header, section, footer {
 width: 90%;
     }
