@@ -322,9 +322,14 @@ form textarea {
     width: 75px;
 }
 
-
 /*inicio media para tablets*/
-@media all and (max-width: 899px) {
+@media all and (max-width: 1200px) {
+    .contenedor-contacto img{
+        display:none;
+    }
+}
+/*inicio media para tablets*/
+@media all and (max-width: 990px) {
     header, section, footer {
 width: 90%;
     }
